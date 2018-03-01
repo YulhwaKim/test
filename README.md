@@ -4,5 +4,5 @@
 
 
 <p align="center">
-  <img scr="./tile_sparse_encoding.png" width="100"/>
+  <img scr=./tile_sparse_encoding.png>
 </p>
