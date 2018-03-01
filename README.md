@@ -8,4 +8,4 @@
 ![Alt](./tile_sparse_encoding.png "Title")
 
 <img src="./tile_sparse_encoding.png" widht="200">
-<img src="./tile_sparse_encoding.png" widht="100">
+<img src="./tile_sparse_encoding.png" widht="1">
